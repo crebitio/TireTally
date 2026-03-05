@@ -11,4 +11,4 @@ Your data syncs between your devices via iCloud and is not accessible to the dev
 **TireTally does not connect to your vehicle, does not read tire pressures or treadwear data, and does not transmit your information to any external servers.**
 
 ## Contact
-For bug reports, feature requests, or general feedback, please open an issue on the GitHub repository. Not on Github? please send a [Gmail](mailto:crebitio+tiretally@gmail.com?subject=TireTally%20Support).
+For bug reports, feature requests, or general feedback, please open an issue on the GitHub repository. Not on Github? please send a [Gmail](mailto:crebitiog+tiretally@gmail.com?subject=TireTally%20Support).
