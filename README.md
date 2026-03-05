@@ -1,5 +1,4 @@
 # TireTally
-## About
 TireTally helps you keep a tally of tire costs and miles driven.
 
 Available for iOS 26 and iPadOS 26.
